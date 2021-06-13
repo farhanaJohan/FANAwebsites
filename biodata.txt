@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>Biodata></title>
+</head><body bgcolor="Bisque">
+</head>
+
+<br>
+<embed src="C:\Users\Acer\Downloads\nur farhana _personal websites\twilight-serenity-genshin-impact-main-theme-var.mp3"autoplay="false" hidden="true"></embed>
+</br>
+<P><body bgcolor="white" align="center" >
+<body>
+
+<a href="index.html" align="center">Individual assigment</a>
+<center><big><h2><p><i><b><font size="32"style="color:DarkGoldenRod">BIODATA</font></b></i></p></h2></center>
+<table border="1" width="35%" align="center" valign="middle">
+<tr align-"center">
+<th colspan="3" align="center"><img src="C:\Users\Acer\Downloads\nur farhana _personal websites\gambar biodata.jpg" width="100%" align="center"></th>
+</tr>
+<tr align-"center" bgcolor="DarkGoldenRod">
+<th rowspan="6"style="color:Dark Green">Information about me</th>
+
+<tr align-"center">
+<td>Name</td>
+<td>NUR FARHANA BINTI MOHD JOHAN</td>
+</tr>
+<tr align-"center">
+<td>Born at and when</td>
+<td>Kota Belud, Sabah on the 1st of October</td>
+</tr>
+<tr align-"center">
+<td>hobbies</td>
+<td>Reading books and collecting books</td>
+</tr>
+<tr align-"center">
+<td>Future Job</td>
+<td>Owning a bookstore</td>
+</tr>
+<tr align-"center">
+<td>Education</td>
+<td>Diploma at the UiTM under the study of Library managment</td>
+</tr>
+</table>
+
+<p style="color:green" align="center">My Introduction Video regarding myself</p>
+<br>
+
+<video width=""class="embed-responsive-item"  controls height="">
+   <source src="C:\Users\Acer\Downloads\nur farhana _personal websites\video biodata.mp4">
+   Your browser does not support the video tag.
+</video>
+</br>
+
+</body>
+</html>
